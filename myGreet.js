@@ -1,4 +1,5 @@
-(function(global, $) {
+//trick to put semi colon before, if you have a lot of frameworks before this one
+/*;*/(function(global, $) {
 
     //'new' an object
     var Greet = function(firstName, lastName, language) {
